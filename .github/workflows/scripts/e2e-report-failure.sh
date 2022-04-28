@@ -22,4 +22,3 @@ else
   gh -R "$ISSUE_REPOSITORY" issue comment "$ISSUE_ID" -F ./BODY
 fi
 
- 
